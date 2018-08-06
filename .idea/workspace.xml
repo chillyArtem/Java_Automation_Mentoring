@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b73862-ab84-465b-8a63-ccc289f30a06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/Java_Automation_Mentoring.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/commonTwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/copyEndy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/copyEvens.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/dividesSelf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/hasOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/scoreUp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/scoresAverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/scoresClump.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/wordsCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/wordsFront.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/wordsWithoutList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Array3/canBalance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Array3/squareUp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Logic2/loneSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Logic2/makeBricks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/Java_Automation_Mentoring.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../Java_Automation_Mentoring/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -91,14 +79,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repeatFront.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="repeatFront.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,6 +131,7 @@
         <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Logic2/makeChocolate.java" />
         <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore" />
         <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java" />
       </list>
     </option>
@@ -644,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533537171551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="done repeatFront task">
+      <created>1533538033479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533538033479</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -699,7 +705,8 @@
     <MESSAGE value="done sameEnds task" />
     <MESSAGE value="done lucky13 task&#10;started notReplace (not finished)" />
     <MESSAGE value="commited .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="commited .idea" />
+    <MESSAGE value="done repeatFront task" />
+    <option name="LAST_COMMIT_MESSAGE" value="done repeatFront task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -776,56 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1533537868553" expanded="true" signature="51147:51164" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51147:51182" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51147:51195" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51147:51210" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51245:53715" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51258:53700" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51312:51607" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51331:51592" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51394:51572" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51434:51538" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51455:51516" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51657:51984" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51676:51969" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51771:51949" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51811:51915" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="51832:51893" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52035:52300" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52054:52285" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52087:52265" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52127:52231" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52148:52209" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52343:52649" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52362:52634" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52436:52614" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52476:52580" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52497:52558" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52700:53028" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52719:53013" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52815:52993" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52855:52959" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="52876:52937" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53063:53369" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53082:53354" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53156:53334" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53196:53300" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53217:53278" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53421:53686" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53440:53671" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53473:53651" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53513:53617" ph="..." />
-            <marker date="1533537868553" expanded="true" signature="53534:53595" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/uiDesigner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -842,9 +799,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1533538181036" expanded="true" signature="46236:46253" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
+        <state relative-caret-position="504">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
@@ -855,17 +830,9 @@
         <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
