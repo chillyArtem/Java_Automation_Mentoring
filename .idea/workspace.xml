@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1b73862-ab84-465b-8a63-ccc289f30a06" name="Default" comment="" />
+    <list default="true" id="f1b73862-ab84-465b-8a63-ccc289f30a06" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/Java_Automation_Mentoring.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/commonTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/copyEndy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/copyEvens.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/dividesSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/hasOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/scoreUp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/scoresAverage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/scoresClump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/wordsCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/wordsFront.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/AP1/wordsWithoutList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Array3/canBalance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Array3/squareUp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Logic2/loneSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Logic2/makeBricks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../Java_Automation_Mentoring/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String3/sameEnds.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
@@ -40,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String3/notReplace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#236#237#0" expanded="true" />
@@ -54,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Array2/lucky13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -70,59 +91,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml">
+      <file leaf-file-name="repeatFront.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <marker date="1533537146695" expanded="true" signature="51010:51053" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51010:51071" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51010:51084" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51010:51099" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51134:53604" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51147:53589" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51201:51496" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51220:51481" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51283:51461" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51323:51427" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51344:51405" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51546:51873" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51565:51858" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51660:51838" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51700:51804" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51721:51782" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51924:52189" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51943:52174" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="51976:52154" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52016:52120" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52037:52098" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52232:52538" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52251:52523" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52325:52503" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52365:52469" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52386:52447" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52589:52917" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52608:52902" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52704:52882" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52744:52848" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52765:52826" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52952:53258" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="52971:53243" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="53045:53223" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="53085:53189" ph="..." />
-                <marker date="1533537146695" expanded="true" signature="53106:53167" ph="..." />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uiDesigner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/uiDesigner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -155,6 +132,8 @@
         <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Array2/lucky13.java" />
         <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Logic2/makeChocolate.java" />
         <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java" />
       </list>
     </option>
   </component>
@@ -224,10 +203,6 @@
               <option name="myItemId" value="CodingBat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="String3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -247,29 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Array2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_Automation_Mentoring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_Automation_Mentoring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_Automation_Mentoring" />
+              <option name="myItemId" value="String2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -313,27 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.makeChocolate">
-    <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="TestPackage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="TestPackage.HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Java_Automation_Mentoring" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_Automation_Mentoring" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.repeatFront">
     <configuration default="false" name="sameEnds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -402,6 +335,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="CodingBat.Logic2.makeChocolate" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Java_Automation_Mentoring" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_Automation_Mentoring" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="repeatFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="CodingBat.String2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="CodingBat.String2.repeatFront" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Java_Automation_Mentoring" />
@@ -619,19 +572,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Application.sameEnds" />
-      <item index="2" class="java.lang.String" itemvalue="Application.notReplace" />
-      <item index="3" class="java.lang.String" itemvalue="Application.lucky13" />
-      <item index="4" class="java.lang.String" itemvalue="Application.makeChocolate" />
+      <item index="0" class="java.lang.String" itemvalue="Application.sameEnds" />
+      <item index="1" class="java.lang.String" itemvalue="Application.notReplace" />
+      <item index="2" class="java.lang.String" itemvalue="Application.lucky13" />
+      <item index="3" class="java.lang.String" itemvalue="Application.makeChocolate" />
+      <item index="4" class="java.lang.String" itemvalue="Application.repeatFront" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.makeChocolate" />
-        <item index="1" class="java.lang.String" itemvalue="Application.lucky13" />
-        <item index="2" class="java.lang.String" itemvalue="Application.notReplace" />
-        <item index="3" class="java.lang.String" itemvalue="Application.sameEnds" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld" />
+        <item index="0" class="java.lang.String" itemvalue="Application.repeatFront" />
+        <item index="1" class="java.lang.String" itemvalue="Application.makeChocolate" />
+        <item index="2" class="java.lang.String" itemvalue="Application.lucky13" />
+        <item index="3" class="java.lang.String" itemvalue="Application.notReplace" />
+        <item index="4" class="java.lang.String" itemvalue="Application.sameEnds" />
       </list>
     </recent_temporary>
   </component>
@@ -684,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533537155368</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commited .idea">
+      <created>1533537171551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1533537171551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -738,7 +698,8 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="done sameEnds task" />
     <MESSAGE value="done lucky13 task&#10;started notReplace (not finished)" />
-    <option name="LAST_COMMIT_MESSAGE" value="done lucky13 task&#10;started notReplace (not finished)" />
+    <MESSAGE value="commited .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -779,7 +740,7 @@
     <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String3/sameEnds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#209#210#0" expanded="true" />
@@ -798,7 +759,7 @@
     <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String3/notReplace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
@@ -810,7 +771,7 @@
     <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/Array2/lucky13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -820,42 +781,47 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1533537146695" expanded="true" signature="51010:51053" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51010:51071" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51010:51084" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51010:51099" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51134:53604" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51147:53589" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51201:51496" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51220:51481" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51283:51461" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51323:51427" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51344:51405" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51546:51873" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51565:51858" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51660:51838" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51700:51804" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51721:51782" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51924:52189" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51943:52174" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="51976:52154" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52016:52120" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52037:52098" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52232:52538" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52251:52523" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52325:52503" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52365:52469" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52386:52447" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52589:52917" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52608:52902" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52704:52882" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52744:52848" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52765:52826" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52952:53258" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="52971:53243" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="53045:53223" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="53085:53189" ph="..." />
-            <marker date="1533537146695" expanded="true" signature="53106:53167" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51147:51164" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51147:51182" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51147:51195" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51147:51210" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51245:53715" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51258:53700" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51312:51607" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51331:51592" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51394:51572" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51434:51538" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51455:51516" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51657:51984" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51676:51969" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51771:51949" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51811:51915" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="51832:51893" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52035:52300" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52054:52285" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52087:52265" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52127:52231" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52148:52209" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52343:52649" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52362:52634" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52436:52614" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52476:52580" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52497:52558" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52700:53028" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52719:53013" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52815:52993" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52855:52959" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="52876:52937" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53063:53369" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53082:53354" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53156:53334" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53196:53300" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53217:53278" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53421:53686" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53440:53671" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53473:53651" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53513:53617" ph="..." />
+            <marker date="1533537868553" expanded="true" signature="53534:53595" ph="..." />
           </folding>
         </state>
       </provider>
@@ -865,6 +831,33 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.idea/Java_Automation_Mentoring.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java_Automation_Mentoring/src/CodingBat/String2/repeatFront.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
