@@ -38,6 +38,8 @@ Thumbs.db
 
 # IDEA generated files #
 ######################
-modules.xml
+/**/logs/
+/**/.idea/
+/**/target/
 Java_Automation_Mentoring.iml
-.idea/
+*.idea
