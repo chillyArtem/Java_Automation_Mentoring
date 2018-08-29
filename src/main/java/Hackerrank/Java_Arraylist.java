@@ -5,8 +5,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**@SuppressWarnings
- * Created by Artem_Berdnik on 8/29/2018.
+/**
+ * @SuppressWarnings Created by Artem_Berdnik on 8/29/2018.
  */
 public class Java_Arraylist {
     static Scanner sc = new Scanner(System.in);
@@ -17,7 +17,7 @@ public class Java_Arraylist {
 
         Map<Integer, ArrayList<Integer>> map = new HashMap<>();
 
-        for (int i = 1; i < n+1; i++) {
+        for (int i = 1; i < n + 1; i++) {
             map.put(i, fillArrayList(sc.nextInt()));
         }
 
@@ -27,7 +27,7 @@ public class Java_Arraylist {
         }
     }
 
-    static ArrayList<Integer> fillArrayList(int n){
+    static ArrayList<Integer> fillArrayList(int n) {
         ArrayList<Integer> arr = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             arr.add(sc.nextInt());
@@ -35,8 +35,9 @@ public class Java_Arraylist {
         return arr;
     }
 
-    static String isNumberInMap(Map<Integer, ArrayList<Integer>> map, int arrayNumber, int exactNumber){
-        if (map.get(arrayNumber).size() >= exactNumber) return String.valueOf(map.get(arrayNumber).get(exactNumber-1));
+    static String isNumberInMap(Map<Integer, ArrayList<Integer>> map, int arrayNumber, int exactNumber) {
+        if (map.get(arrayNumber).size() >= exactNumber)
+            return String.valueOf(map.get(arrayNumber).get(exactNumber - 1));
         else return "ERROR!";
     }
 }
